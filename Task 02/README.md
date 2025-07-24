@@ -3,7 +3,7 @@
 The goal of this task is to build a machine learning model to predict the next day’s closing stock price using historical stock data. This task focuses on short-term stock price forecasting using regression models.
 
 📂 Dataset Used
-We used historical stock price data for Apple Inc. (AAPL), fetched using the Yahoo Finance API.
+We used historical stock price data for TSLA, fetched using the Yahoo Finance API.
 
 Timeframe: January 2022 to December 2023
 Source: yfinance Python library
