@@ -80,7 +80,7 @@ inject_css()
 def init_chatbot():
     llm = ChatGoogleGenerativeAI(
         model="gemini-1.5-flash",
-        google_api_key="AIzaSyCakEJ5TkbJ_JOx9QvsvWtKVQoHRrJDIbU",
+        google_api_key="Paste here your API Key",
         temperature=0.5
     )
     
